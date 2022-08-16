@@ -1,7 +1,5 @@
 # terraform-aws-sns
 
-[![Lint Status](https://github.com/DNXLabs/terraform-aws-sns/workflows/Lint/badge.svg)](https://github.com/DNXLabs/terraform-aws-sns/actions)
-[![LICENSE](https://img.shields.io/github/license/DNXLabs/terraform-aws-sns)](https://github.com/DNXLabs/terraform-aws-sns/blob/master/LICENSE)
 
 This is a module that creates an AWS SNS Application Module and it was designed to be used with `DNXLabs/terraform-aws-monitoring`.
 
@@ -48,8 +46,6 @@ The following resources will be created:
 
 ## Authors
 
-Module managed by [DNX Solutions](https://github.com/DNXLabs).
 
 ## License
 
-Apache 2 Licensed. See [LICENSE](https://github.com/DNXLabs/terraform-aws-sns/blob/master/LICENSE) for full details.
